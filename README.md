@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Felipe Arroyo</h1>
-<h3 align="center">I am an electronic engineer by profession and a specialist in project management. I am always in constant academic growth, so I started to enter the world of programming. As part of this training two years ago I have developed technologies in HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.</h3>
+<p align="left">I am an electronic engineer by profession and a specialist in project management. I am always in constant academic growth, so I started to enter the world of programming. As part of this training two years ago I have developed technologies in HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.</p>
 
 - 🌱 I’m currently learning **TypeScript**
 
