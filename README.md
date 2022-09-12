@@ -2,7 +2,7 @@
 <p align="left">I am an electronic engineer by profession and a specialist in project management.</p> 
 <p align="left">I'm always in constant academic growth, so I started to enter the world of programming. As part of this training two years ago I have developed technologies in HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.</p>
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **TypeScript** and **AngularJS**
 
 - 📫 How to reach me **j-a-m291@hotmail.com**
 <hr />
