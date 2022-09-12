@@ -1,8 +1,5 @@
 ### Hi!! 👋, I'm Juan Felipe Arroyo
 
-<!--
-**jfarroyo291/jfarroyo291** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 I am an electronic engineer by profession and a specialist in project management.
 
 I am always in constant academic growth, so I started to enter the world of programming. As part of this training two years ago I have developed technologies in HTML, CSS, Sass, JavaScript, Git, NodeJS, Express, React, Redux, SQL, Sequelize, Scrum.
@@ -22,8 +19,8 @@ I am always in constant academic growth, so I started to enter the world of prog
 
 ____
 
-
 ##### Backend Development
+
 <p align="left"> <a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="65" height="65"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="65" height="65"/> </a>
 </p>
 
