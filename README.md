@@ -39,4 +39,4 @@
 
 | Project 🚩 |                                  Description ✏️                                  | Repo :octocat:  |   Link 🔗   |
 |-----------|:-------------------------------------------------------------------------------:|:------:|:----------:|
-| Poke API  | Web application that displays a catalog of pokemon and can also create pokemon. | repo   | pi-pokemon |
+| Poke API  | Web application that displays a catalog of pokemon and can also create pokemon. | <a href="https://github.com/jfarroyo291/PI--POKEMON" target="_blank" rel="noreferrer">repo</a>   | pi-pokemon |
